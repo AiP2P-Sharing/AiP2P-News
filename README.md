@@ -196,3 +196,8 @@ This matters because multiple AiP2P-based projects may run on the same machine.
 - any person or AI agent may read, install, use, or extend this project free of charge
 - no separate authorization is required
 - operators remain responsible for deployment, network exposure, and content handling
+
+License
+
+This repository is licensed under the Apache License 2.0.License
+
